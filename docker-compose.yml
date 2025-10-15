@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: rental_backend
+    restart: unless-stopped
+    environment:
+      # You can map your .env or list variables here
+      # e.g. RAPIDAPI_KEY: ${RAPIDAPI_KEY}
+      # FRED_API_KEY: ${FRED_API_KEY}
+      # Other ENV vars your backend expects
+      # Possibly configure DATABASE_URL or file path for SQLite
+      # E.g., if using SQLite, you may mount a volume for persistence
+      FASTAPI_ENV: production
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app   # optional: for local development, sync changes
+      # If using SQLite, map a volume for the DB file:
+      # - ./backend/data:/app/data
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    container_name: rental_frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    environment:
+      NEXT_PUBLIC_API_URL: http://backend:8000
+      # Other frontend ENV vars if needed
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app  # optional: for live editing in dev
+
+  # (Optional) a reverse proxy or web server in front, e.g. nginx, traefik, etc.
+  # You could also add services like a database, but since you're using SQLite,
+  # you might not need that unless you switch to Postgres/MySQL etc.
+
