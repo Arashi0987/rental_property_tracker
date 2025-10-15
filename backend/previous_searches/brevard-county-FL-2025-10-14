@@ -1,0 +1,4025 @@
+[
+  {
+    "agent": [
+      {
+        "office_name": "Relentless Real Estate Co."
+      }
+    ],
+    "branding": [
+      {
+        "name": "Relentless Real Estate Co.",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-05T06:55:45Z",
+    "list_date": "2025-09-22T15:31:00.000000Z",
+    "list_price": 1,
+    "listing_id": "2986627583",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": {
+          "lat": 28.350784,
+          "lon": -80.727585
+        },
+        "line": "840 Florida Ave Unit 5",
+        "postal_code": "32922",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=840%20Florida%20Ave%20Unit%205%2C%20Cocoa%2C%20FL%2032922&size=640x480&source=outdoor&signature=IZUxm9YeTLgCcySQZfbzltZ2yT8="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986627583",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2985671992",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2984625702",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2982874389",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2977782280",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2975626901",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/840-Florida-Ave-5_Cocoa_FL_32922_M94392-51414",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/be306e09dd703d51b48464183e4ed84bl-m3948391404s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/be306e09dd703d51b48464183e4ed84bl-m2546008770s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/be306e09dd703d51b48464183e4ed84bl-m3948391404s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": 1,
+      "beds": 2,
+      "garage": 2,
+      "lot_sqft": 1307,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1600,
+      "stories": 3,
+      "sub_type": "townhouse",
+      "type": "townhomes",
+      "year_built": 2024
+    },
+    "property_id": "9439251414",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "No Tax Record Available",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1057740"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Real Broker LLC"
+      },
+      {
+        "office_name": "EXP Realty, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Real Broker LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-04T15:41:50Z",
+    "list_date": "2025-08-28T12:18:15.000000Z",
+    "list_price": 350000,
+    "listing_id": "2985809935",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.945113,
+          "lon": -80.645755
+        },
+        "line": "2067 Windbrook Dr SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=2067%20Windbrook%20Dr%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=V8Ns3n4W_JYKlSiKPJ_modtTeck="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985809935",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2976828616",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "602882710",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2945381457",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "652101922",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "596936358",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "652112794",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "651247706",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "650007754",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "640528570",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "640350038",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "578434066",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/2067-Windbrook-Dr-SE_Palm-Bay_FL_32909_M67518-44082",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/4ad707042a35370836696305652c65f9l-m4092691655s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/4ad707042a35370836696305652c65f9l-m627956471s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/4ad707042a35370836696305652c65f9l-m4092691655s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 3,
+      "baths_half": null,
+      "beds": 4,
+      "garage": 2,
+      "lot_sqft": 19602,
+      "name": null,
+      "sold_date": "2022-09-16",
+      "sold_price": 692300,
+      "sqft": 3424,
+      "stories": 2,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2007
+    },
+    "property_id": "6751844082",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "7D2B9C73BA76B5FDE2C160B4D078DC86",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1055689"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Florida Lifestyle Realty LLC"
+      },
+      {
+        "office_name": "Compass Florida, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Florida Lifestyle Realty Llc",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-14T02:10:46Z",
+    "list_date": "2025-10-10T15:35:04.000000Z",
+    "list_price": 224900,
+    "listing_id": "2987239283",
+    "location": {
+      "address": {
+        "city": "Melbourne",
+        "coordinate": {
+          "lat": 28.075511,
+          "lon": -80.62522
+        },
+        "line": "2208 Country Club Rd",
+        "postal_code": "32901",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=2208%20Country%20Club%20Rd%2C%20Melbourne%2C%20FL%2032901&size=640x480&source=outdoor&signature=MXoVnkRmW412HoQBXUGaMiIry0k="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2987239283",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/2208-Country-Club-Rd_Melbourne_FL_32901_M56410-67642",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/cc53d9cdfa673f16cc81f62949cb2508l-m1386921851s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/cc53d9cdfa673f16cc81f62949cb2508l-m940348801s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/cc53d9cdfa673f16cc81f62949cb2508l-m1386921851s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 1,
+      "baths_half": 1,
+      "beds": 2,
+      "garage": 1,
+      "lot_sqft": 6534,
+      "name": null,
+      "sold_date": "1995-09-07",
+      "sold_price": 66500,
+      "sqft": 1279,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1923
+    },
+    "property_id": "5641067642",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "A9D9751F54E3A768FE100738B60AE9CD",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1059314"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "CENTURY 21 Baytree Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Century 21 Baytree Realty",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-09T21:02:08Z",
+    "list_date": "2025-10-08T11:56:31.000000Z",
+    "list_price": 192000,
+    "listing_id": "2987143718",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.972754,
+          "lon": -80.645869
+        },
+        "line": "1078 Grapefruit Rd SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1078%20Grapefruit%20Rd%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=yBRLrAYHv2zopfEVZlsnPARiOs4="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2987143718",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1078-Grapefruit-Rd-SE_Palm-Bay_FL_32909_M51948-37023",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/67ec76e5d5f339c2f949ed0eece8ba74l-b205404179s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/67ec76e5d5f339c2f949ed0eece8ba74l-b2377451160s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/67ec76e5d5f339c2f949ed0eece8ba74l-b205404179s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 17860,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1416,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1982
+    },
+    "property_id": "5194837023",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "E23AE60064D0D3FBD2FDE7D5B7CB018E",
+    "type": "mls",
+    "virtual_tour_link": "https://media.soaringhighdrones.com/videos/0199c0f7-ba52-7181-8a3d-b8e792a78f19?v=348"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Weichert REALTORS Hallmark Pro"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Weichert REALTORS Hallmark Pro",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2024-12-30T14:00:52Z",
+    "list_date": "2024-04-29T17:56:26.000000Z",
+    "list_price": 12000,
+    "listing_id": "2966714439",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": null,
+        "line": null,
+        "postal_code": "32926",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": null,
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=undefined%2C%20Cocoa%2C%20FL%2032926&size=640x480&source=outdoor&signature=GVMZSVz4Dw5M3436ZRLumSH5zyw="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2966714439",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2954618893",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/Onknown_Cocoa_FL_32926_M92859-91210",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/71432bfb190cf9311267291d57e275afl-m1263176308s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/71432bfb190cf9311267291d57e275afl-m1263176308s.jpg",
+    "property_description": {
+      "baths": null,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": null,
+      "baths_half": null,
+      "beds": null,
+      "garage": null,
+      "lot_sqft": 47045,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": null,
+      "stories": null,
+      "sub_type": null,
+      "type": "land",
+      "year_built": null
+    },
+    "property_id": "9285991210",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "No Tax Record Available",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Four Star Real Estate LLC"
+      },
+      {
+        "office_name": "Four Star Real Estate LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Four Star Real Estate, LLC.",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-07T18:54:09Z",
+    "list_date": "2025-09-02T15:34:38.000000Z",
+    "list_price": 280000,
+    "listing_id": "2985939394",
+    "location": {
+      "address": {
+        "city": "Melbourne",
+        "coordinate": {
+          "lat": 28.254966,
+          "lon": -80.71105
+        },
+        "line": "1605 Freedom Dr",
+        "postal_code": "32940",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1605%20Freedom%20Dr%2C%20Melbourne%2C%20FL%2032940&size=640x480&source=outdoor&signature=LzO-Qjupab6RpfbZxSmQxE5y1wg="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985939394",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "555087118",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "618533866",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1605-Freedom-Dr_Melbourne_FL_32940_M50133-68972",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/bede9a371da475bb50859c7fa8d7bfd2l-m2622131234s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/bede9a371da475bb50859c7fa8d7bfd2l-m679945564s.jpg"
+      }
+    ],
+    "price_reduced_amount": 10000,
+    "primary_photo": "https://ap.rdcpix.com/bede9a371da475bb50859c7fa8d7bfd2l-m2622131234s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 3,
+      "baths_half": null,
+      "beds": 4,
+      "garage": 3,
+      "lot_sqft": 13068,
+      "name": null,
+      "sold_date": "2014-10-31",
+      "sold_price": 170000,
+      "sqft": 2289,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1989
+    },
+    "property_id": "5013368972",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "490B6B25C913116431A65BE3A64A4482",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1056054"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "ITG Realty"
+      },
+      {
+        "office_name": "ITG Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Itg Realty",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-08-12T11:00:12Z",
+    "list_date": "2025-08-12T02:53:34.000000Z",
+    "list_price": 147500,
+    "listing_id": "2985248789",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.957095,
+          "lon": -80.66167
+        },
+        "line": "1639 Falk Ter SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1639%20Falk%20Ter%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=NiLNhgzuIj2bKn7o2SVILdmadjM="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985248789",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2918439190",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "643821242",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "566857326",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1639-Falk-Ter-SE_Palm-Bay_FL_32909_M60989-31317",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/1a6d18e206e6a5cb1fcc5bff42c7f554l-m1325991788s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/1a6d18e206e6a5cb1fcc5bff42c7f554l-m2407582565s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/1a6d18e206e6a5cb1fcc5bff42c7f554l-m1325991788s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 2,
+      "garage": 1,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "2020-09-28",
+      "sold_price": 155000,
+      "sqft": 988,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1988
+    },
+    "property_id": "6098931317",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "6EEE58F088ECC9BF6428BFE2689ABE85",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1054246"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Coldwell Banker Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Coldwell Banker Res. R.E.",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-13T06:56:19Z",
+    "list_date": "2025-03-15T19:29:28.000000Z",
+    "list_price": 245000,
+    "listing_id": "2979422339",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.031566,
+          "lon": -80.693051
+        },
+        "line": "254 Emerson Dr NW",
+        "postal_code": "32907",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=254%20Emerson%20Dr%20NW%2C%20Palm%20Bay%2C%20FL%2032907&size=640x480&source=outdoor&signature=fErAfECj2XkdWLzB8nXlettA0Eo="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2979422339",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2963537606",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "569284710",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "554517458",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554517158",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "572753010",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/254-Emerson-Dr-NW_Palm-Bay_FL_32907_M51348-66675",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/a1702289e38bccec7f98d119c13e7c84l-b2809251049s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/a1702289e38bccec7f98d119c13e7c84l-b1721468389s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/a1702289e38bccec7f98d119c13e7c84l-b2809251049s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 12632,
+      "name": null,
+      "sold_date": "2013-12-16",
+      "sold_price": 85000,
+      "sqft": 1461,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1984
+    },
+    "property_id": "5134866675",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "F13A02EADABFFCAC7E16D7DF277ECBC3",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1040213"
+  },
+  {
+    "agent": "No Agent Available",
+    "branding": [
+      {
+        "name": "KB Home",
+        "photo": "https://nh.rdcpix.com/68fa0989e77ef1a65fdc68e4f26d84b6n-f3659305689s.png",
+        "type": "Builder"
+      }
+    ],
+    "last_update_date": "2025-10-11",
+    "list_date": "2025-10-10T00:03:03.000000Z",
+    "list_price": 289990,
+    "listing_id": null,
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.907127,
+          "lon": -80.639562
+        },
+        "line": "634 Hatton Ln. SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=634%20Hatton%20Ln.%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=3roXt9nbyzF5jSNcL4QvzxczymI="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": null,
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/Plan-1637-Modeled_Gardens-at-Waterstone-I_634-Hatton-Ln-SE_Palm-Bay_FL_32909_P417000834140",
+    "photos": [
+      {
+        "href": "https://nh.rdcpix.com/95e087fb5648b9a0d00b8c9cb1d76912e-f3879965688s.jpg"
+      },
+      {
+        "href": "https://nh.rdcpix.com/95e087fb5648b9a0d00b8c9cb1d76912e-f2049067460s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://nh.rdcpix.com/95e087fb5648b9a0d00b8c9cb1d76912e-f3879965688s.jpg",
+    "property_description": {
+      "baths": null,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 4,
+      "garage": 2,
+      "lot_sqft": null,
+      "name": "Plan 1637 Modeled",
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1637,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": null
+    },
+    "property_id": "417000834140",
+    "source": "KBHB",
+    "status": "ready_to_build",
+    "tax_record": "No Tax Record Available",
+    "type": "new_home",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": null
+      },
+      {
+        "office_name": null
+      }
+    ],
+    "branding": [
+      {
+        "name": "Charles Rutenberg Realty",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-23T23:36:03Z",
+    "list_date": "2025-09-11T04:02:14.000000Z",
+    "list_price": 22000,
+    "listing_id": "2986259601",
+    "location": {
+      "address": {
+        "city": "Titusville",
+        "coordinate": {
+          "lat": 28.56796,
+          "lon": -80.800852
+        },
+        "line": "3915 Mount Sterling Ave",
+        "postal_code": "32780",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3915%20Mount%20Sterling%20Ave%2C%20Titusville%2C%20FL%2032780&size=640x480&source=outdoor&signature=lSxebSuEszmSrkbYfl9YdFQmdpg="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986259601",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2978881942",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "588879962",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2942256807",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2974680515",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "522902822",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554660134",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554660266",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554344094",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/3915-Mount-Sterling-Ave_Titusville_FL_32780_M69811-95201",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/e68e9c76a0dc4e2f1de2eb172f09de7dl-m1553370449s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/e68e9c76a0dc4e2f1de2eb172f09de7dl-m1553370449s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": 1,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 1742,
+      "name": null,
+      "sold_date": "2021-10-04",
+      "sold_price": 99000,
+      "sqft": 1140,
+      "stories": 2,
+      "sub_type": "townhouse",
+      "type": "townhomes",
+      "year_built": 1980
+    },
+    "property_id": "6981195201",
+    "source": "ORFL",
+    "status": "for_sale",
+    "tax_record": "F270E8890C1D98D055E2AC311D59D444",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": "No Agent Available",
+    "branding": [
+      {
+        "name": "McLennan Construction Group",
+        "photo": null,
+        "type": "Builder"
+      }
+    ],
+    "last_update_date": "2025-10-08",
+    "list_date": "2025-10-10T18:09:58.000000Z",
+    "list_price": 385000,
+    "listing_id": null,
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.8990653,
+          "lon": -80.6437906
+        },
+        "line": "1406 Valerius St",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1406%20Valerius%20St%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=18Wc6qt_H9TX9Zbn9twpn7aXNLI="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": null,
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/Selah_Palm-Bay-Crown-Collection_1406-Valerius-St_Palm-Bay_FL_32909_P417000979332",
+    "photos": [
+      {
+        "href": "https://nh.rdcpix.com/e33c360cbebb8cc977f51e0496d51ca7e-f601182181s.jpg"
+      },
+      {
+        "href": "https://nh.rdcpix.com/e33c360cbebb8cc977f51e0496d51ca7e-f4096623178s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://nh.rdcpix.com/e33c360cbebb8cc977f51e0496d51ca7e-f601182181s.jpg",
+    "property_description": {
+      "baths": null,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 3,
+      "baths_half": null,
+      "beds": 4,
+      "garage": 3,
+      "lot_sqft": null,
+      "name": "Selah",
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 2164,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": null
+    },
+    "property_id": "417000979332",
+    "source": "CBGB",
+    "status": "ready_to_build",
+    "tax_record": "No Tax Record Available",
+    "type": "new_home",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": "No Agent Available",
+    "branding": [
+      {
+        "name": "McLennan Construction Group",
+        "photo": null,
+        "type": "Builder"
+      }
+    ],
+    "last_update_date": "2025-10-08",
+    "list_date": "2025-10-06T19:15:00.000000Z",
+    "list_price": 325000,
+    "listing_id": null,
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.8990653,
+          "lon": -80.6437906
+        },
+        "line": "1406 Valerius St",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1406%20Valerius%20St%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=18Wc6qt_H9TX9Zbn9twpn7aXNLI="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": null,
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/Solace-Petit_Palm-Bay-Crown-Collection_1406-Valerius-St_Palm-Bay_FL_32909_P417000979646",
+    "photos": [
+      {
+        "href": "https://nh.rdcpix.com/eee07611ef720c967c72bdc86cee2d96e-f2621780674s.jpg"
+      },
+      {
+        "href": "https://nh.rdcpix.com/eee07611ef720c967c72bdc86cee2d96e-f112611672s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://nh.rdcpix.com/eee07611ef720c967c72bdc86cee2d96e-f2621780674s.jpg",
+    "property_description": {
+      "baths": null,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 4,
+      "garage": 2,
+      "lot_sqft": null,
+      "name": "Solace Petit",
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1829,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": null
+    },
+    "property_id": "417000979646",
+    "source": "CBGB",
+    "status": "ready_to_build",
+    "tax_record": "No Tax Record Available",
+    "type": "new_home",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Home Vision Realty, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Home Vision Realty, LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-07-15T16:39:51Z",
+    "list_date": "2025-06-20T22:38:40.000000Z",
+    "list_price": 249900,
+    "listing_id": "2983377492",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": {
+          "lat": 28.356747,
+          "lon": -80.790342
+        },
+        "line": "258 Lime St",
+        "postal_code": "32926",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=258%20Lime%20St%2C%20Cocoa%2C%20FL%2032926&size=640x480&source=outdoor&signature=jLpGPVZI7OAaaaT6OQsweMYyFtE="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2983377492",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2950904471",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "507510194",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/258-Lime-St_Cocoa_FL_32926_M57180-26031",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/f4ea0dba3491b7cd95ba73148383c055l-m3844858757s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/f4ea0dba3491b7cd95ba73148383c055l-m888213460s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/f4ea0dba3491b7cd95ba73148383c055l-m3844858757s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 2,
+      "garage": 1,
+      "lot_sqft": 6970,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 789,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2025
+    },
+    "property_id": "5718026031",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "5E3AD70AAEEEF481CA736D232BF627D4",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1049651"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "All Florida Property Group,Inc"
+      }
+    ],
+    "branding": [
+      {
+        "name": "All Florida Prop. Group",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-15T19:47:30Z",
+    "list_date": "2025-08-28T15:05:24.000000Z",
+    "list_price": 200000,
+    "listing_id": "2985815257",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.024878,
+          "lon": -80.704246
+        },
+        "line": "1171 Elmont St NW",
+        "postal_code": "32907",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1171%20Elmont%20St%20NW%2C%20Palm%20Bay%2C%20FL%2032907&size=640x480&source=outdoor&signature=Yb-pYtw1DECHPGutdfg-dbW4IKE="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985815257",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "554516514",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1171-Elmont-St-NW_Palm-Bay_FL_32907_M56710-74949",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/ce4b3ddf0ca7b7888247ded75b96aebcl-m811034676s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/ce4b3ddf0ca7b7888247ded75b96aebcl-m3409372589s.jpg"
+      }
+    ],
+    "price_reduced_amount": 10000,
+    "primary_photo": "https://ap.rdcpix.com/ce4b3ddf0ca7b7888247ded75b96aebcl-m811034676s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "1998-07-01",
+      "sold_price": 64900,
+      "sqft": 1653,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1990
+    },
+    "property_id": "5671074949",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "6EE01F3B8D7AAF5BA8D2105ECE27D753",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1055713"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Katherine Alexandra Nguyen PA"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Katherine Alexandra Nguyen PA",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-08T01:08:02Z",
+    "list_date": "2025-09-11T17:26:18.000000Z",
+    "list_price": 159900,
+    "listing_id": "2986277367",
+    "location": {
+      "address": {
+        "city": "Sebastian",
+        "coordinate": {
+          "lat": 27.879759,
+          "lon": -80.511756
+        },
+        "line": "555 Marlin Cir",
+        "postal_code": "32976",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=555%20Marlin%20Cir%2C%20Sebastian%2C%20FL%2032976&size=640x480&source=outdoor&signature=VZ5fmB6oVBzBK5qZ8Jv_uF0Ddkw="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986277367",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2986271908",
+          "listing_key": null,
+          "primary": null,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2986227580",
+          "listing_key": null,
+          "primary": null,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "550413070",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "582973322",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/555-Marlin-Cir_Sebastian_FL_32976_M53872-29712",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/fbd8b2639efca17910e41030fadd3cf6l-m1890685517s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/fbd8b2639efca17910e41030fadd3cf6l-m2593413182s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/fbd8b2639efca17910e41030fadd3cf6l-m1890685517s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": null,
+      "name": null,
+      "sold_date": "2014-07-14",
+      "sold_price": 45500,
+      "sqft": 1035,
+      "stories": 1,
+      "sub_type": "townhouse",
+      "type": "townhomes",
+      "year_built": 1984
+    },
+    "property_id": "5387229712",
+    "source": "IRFL",
+    "status": "for_sale",
+    "tax_record": "6578CE2DF82A0A4E8BF4DADEA8612141",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "EXP Realty LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "EXP Realty, LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-12T19:28:43Z",
+    "list_date": "2025-10-11T18:38:31.000000Z",
+    "list_price": 174900,
+    "listing_id": "2987276175",
+    "location": {
+      "address": {
+        "city": "Titusville",
+        "coordinate": {
+          "lat": 28.596442,
+          "lon": -80.83171
+        },
+        "line": "1451 Brook Dr",
+        "postal_code": "32780",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1451%20Brook%20Dr%2C%20Titusville%2C%20FL%2032780&size=640x480&source=outdoor&signature=t3DZZ44p2EP_I4uhRwu9O90bXc8="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2987276175",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1451-Brook-Dr_Titusville_FL_32780_M60760-31351",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/376f4a0adc7260f40897b807aa16b13cl-m4195778146s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/376f4a0adc7260f40897b807aa16b13cl-m962055323s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/376f4a0adc7260f40897b807aa16b13cl-m4195778146s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 7841,
+      "name": null,
+      "sold_date": "2022-07-28",
+      "sold_price": 150000,
+      "sqft": 1496,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1962
+    },
+    "property_id": "6076031351",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "0E02475867A49D53ADD19CCA3C8ADEDB",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1059404"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Offerpad Brokerage ''FL'' LLC"
+      },
+      {
+        "office_name": "Non-MLS or Out of Area"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Offerpad Brokerage, LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-09T12:55:50Z",
+    "list_date": "2024-11-06T20:50:35.000000Z",
+    "list_price": 299900,
+    "listing_id": "2974619508",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.018373,
+          "lon": -80.69354
+        },
+        "line": "764 Universe St NW",
+        "postal_code": "32907",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=764%20Universe%20St%20NW%2C%20Palm%20Bay%2C%20FL%2032907&size=640x480&source=outdoor&signature=6264AgUZ_5QpEqEt77g-ELiukCE="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2974619508",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2974618029",
+          "listing_key": null,
+          "primary": null,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "610188886",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "556544554",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "502874606",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/764-Universe-St-NW_Palm-Bay_FL_32907_M54042-50801",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/8ffd02677b225632a0a9332d4d184211l-m3612862218s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/8ffd02677b225632a0a9332d4d184211l-m3296575870s.jpg"
+      }
+    ],
+    "price_reduced_amount": 10000,
+    "primary_photo": "https://ap.rdcpix.com/8ffd02677b225632a0a9332d4d184211l-m3612862218s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 11326,
+      "name": null,
+      "sold_date": "2024-09-16",
+      "sold_price": 257100,
+      "sqft": 1313,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1988
+    },
+    "property_id": "5404250801",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "A01D6CC1BC60D4C6E6DA7F8E0A907430",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1028896"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "BHHS Florida Realty"
+      },
+      {
+        "office_name": "BHHS Florida Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Berkshire Hathaway HomeServices Florida Realty",
+        "photo": "https://ap.rdcpix.com/7b84d82efae09341e93d662309929f70g-c518083824s.jpg",
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-08-16T17:47:16Z",
+    "list_date": "2025-02-25T17:44:38.000000Z",
+    "list_price": 7500,
+    "listing_id": "2978681933",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": null,
+        "line": null,
+        "postal_code": "32927",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": null,
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=undefined%2C%20Cocoa%2C%20FL%2032927&size=640x480&source=outdoor&signature=uJkhZuH4TTfU7MPZDpIiELakgjo="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2978681933",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2978691873",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/Cocoa_FL_32927_M99008-67847",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/8afe52dfaa9a8b1290565c2c71eaa463l-m1782995973s.jpg"
+      }
+    ],
+    "price_reduced_amount": 7500,
+    "primary_photo": "https://ap.rdcpix.com/8afe52dfaa9a8b1290565c2c71eaa463l-m1782995973s.jpg",
+    "property_description": {
+      "baths": null,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": null,
+      "baths_half": null,
+      "beds": null,
+      "garage": null,
+      "lot_sqft": 114998,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": null,
+      "stories": null,
+      "sub_type": null,
+      "type": "land",
+      "year_built": null
+    },
+    "property_id": "9900867847",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "No Tax Record Available",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Tropical Realty & Inv. of Brev"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Tropical Realty & Inv. of Brev",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-07-15T16:35:38Z",
+    "list_date": "2024-05-23T16:11:29.000000Z",
+    "list_price": 290000,
+    "listing_id": "2967690756",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": {
+          "lat": 28.403316,
+          "lon": -80.851706
+        },
+        "line": "6776 Keydeer Ave",
+        "postal_code": "32926",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=6776%20Keydeer%20Ave%2C%20Cocoa%2C%20FL%2032926&size=640x480&source=outdoor&signature=a_PTmGuedq4pHEhKkftvby0amJE="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2967690756",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/6776-Keydeer-Ave_FL_32926_M54073-27822",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/93d52e9b189af23754f6d07595772dc5l-m3189512549s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/93d52e9b189af23754f6d07595772dc5l-m1674323962s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/93d52e9b189af23754f6d07595772dc5l-m3189512549s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": 1,
+      "beds": 4,
+      "garage": null,
+      "lot_sqft": 100624,
+      "name": null,
+      "sold_date": "1997-03-10",
+      "sold_price": 9200,
+      "sqft": 2164,
+      "stories": 2,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2005
+    },
+    "property_id": "5407327822",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "CFFF489DCBCFDB571955E30DD5820A47",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Robert Slack LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Robert Slack LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-30T17:10:26Z",
+    "list_date": "2025-09-29T15:30:44.000000Z",
+    "list_price": 225000,
+    "listing_id": "2986847222",
+    "location": {
+      "address": {
+        "city": "Mims",
+        "coordinate": {
+          "lat": 28.715513,
+          "lon": -80.864219
+        },
+        "line": "3825 Arlington Ave",
+        "postal_code": "32754",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3825%20Arlington%20Ave%2C%20Mims%2C%20FL%2032754&size=640x480&source=outdoor&signature=B_enHDGVVRbRkTehUQO7pl3ahE0="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986847222",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "578011390",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "543914602",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "554530746",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/3825-Arlington-Ave_Mims_FL_32754_M66531-05843",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/3d62533098e953243258f74aa75e7d33l-m202441158s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/3d62533098e953243258f74aa75e7d33l-m2928950507s.jpg"
+      }
+    ],
+    "price_reduced_amount": 10000,
+    "primary_photo": "https://ap.rdcpix.com/3d62533098e953243258f74aa75e7d33l-m202441158s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 47480,
+      "name": null,
+      "sold_date": "2014-02-21",
+      "sold_price": 175000,
+      "sqft": 1866,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1986
+    },
+    "property_id": "6653105843",
+    "source": "DBFL",
+    "status": "for_sale",
+    "tax_record": "7C08358A34ECAB3D38BD066376B11936",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "RE/MAX Solutions"
+      }
+    ],
+    "branding": [
+      {
+        "name": "RE/MAX Solutions",
+        "photo": "https://ap.rdcpix.com/f150def05714d64cd3a755b78d4c992do-b2274465705s.jpg",
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-07-15T16:46:43Z",
+    "list_date": "2025-06-03T01:29:28.000000Z",
+    "list_price": 99000,
+    "listing_id": "2982625190",
+    "location": {
+      "address": {
+        "city": "Titusville",
+        "coordinate": {
+          "lat": 28.611184,
+          "lon": -80.810842
+        },
+        "line": "411 Dummitt Ave",
+        "postal_code": "32796",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=411%20Dummitt%20Ave%2C%20Titusville%2C%20FL%2032796&size=640x480&source=outdoor&signature=RVSgW3eVenf1CBXK1sxrjGzFU9E="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2982625190",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/411-Dummitt-Ave_Titusville_FL_32796_M69762-01564",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/5926de66ffb5e0000a046011adc921bbl-b3502612440s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/5926de66ffb5e0000a046011adc921bbl-b4036633528s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/5926de66ffb5e0000a046011adc921bbl-b3502612440s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 3,
+      "baths_half": null,
+      "beds": 3,
+      "garage": null,
+      "lot_sqft": 7405,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1000,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1925
+    },
+    "property_id": "6976201564",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "C2502B5246AF28BC51AE403F36F6C69D",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1047849"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Ruth James FL"
+      }
+    ],
+    "branding": [
+      {
+        "name": "VALERIE ANDERSON PA",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-03T23:39:53Z",
+    "list_date": "2025-09-30T07:17:33.000000Z",
+    "list_price": 115000,
+    "listing_id": "2986873836",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.955813,
+          "lon": -80.633218
+        },
+        "line": "1354 Valerius St SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1354%20Valerius%20St%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=LjeTRsB_LFvVD42ZbYd6e6JQE4s="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986873836",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "554394166",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554393670",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554395334",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "518962062",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1354-Valerius-St-SE_Palm-Bay_FL_32909_M58159-78783",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/ef02309c84181ea92fbf240eebda8a32l-m3818825685s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/ef02309c84181ea92fbf240eebda8a32l-m3818825685s.jpg",
+    "property_description": {
+      "baths": 4,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": 2,
+      "beds": 4,
+      "garage": 2,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "2004-09-29",
+      "sold_price": 43800,
+      "sqft": 1800,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2025
+    },
+    "property_id": "5815978783",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "D1D3510C801AB48C7DABF20C79C5D33C",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Lokation Real Estate"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Lokation Real Estate",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-09T17:29:51Z",
+    "list_date": "2025-09-26T17:41:42.000000Z",
+    "list_price": 399000,
+    "listing_id": "2986793137",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.042068,
+          "lon": -80.583069
+        },
+        "line": "3921 Dixie Hwy NE",
+        "postal_code": "32905",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3921%20Dixie%20Hwy%20NE%2C%20Palm%20Bay%2C%20FL%2032905&size=640x480&source=outdoor&signature=2ddYCLZ9tVI6pF5faBvevbbNr8w="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986793137",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/3921-Dixie-Hwy-NE_Palm-Bay_FL_32905_M95747-93779",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/2704712f9e81ef042b67aa152869745fl-m1409017691s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/2704712f9e81ef042b67aa152869745fl-m2760412147s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/2704712f9e81ef042b67aa152869745fl-m1409017691s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 3,
+      "baths_half": null,
+      "beds": 3,
+      "garage": null,
+      "lot_sqft": 5663,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1758,
+      "stories": 1,
+      "sub_type": null,
+      "type": "multi_family",
+      "year_built": 1957
+    },
+    "property_id": "9574793779",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "No Tax Record Available",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1058166"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "The Property Place"
+      }
+    ],
+    "branding": [
+      {
+        "name": "BHHS The Property Place",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-23T17:36:30Z",
+    "list_date": "2025-09-22T17:44:31.000000Z",
+    "list_price": 185000,
+    "listing_id": "2986632966",
+    "location": {
+      "address": {
+        "city": "Titusville",
+        "coordinate": {
+          "lat": 28.585737,
+          "lon": -80.800138
+        },
+        "line": "2469 S Washington Ave Unit C203",
+        "postal_code": "32780",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=2469%20S%20Washington%20Ave%20Unit%20C203%2C%20Titusville%2C%20FL%2032780&size=640x480&source=outdoor&signature=60GC84na_EQcAjnCbn7hriCLrOQ="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986632966",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/2469-S-Washington-Ave-Apt-203C_Titusville_FL_32780_M60476-03335",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/952e31ed2fbbdc4488d417187a6c35b6l-m1287084102s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/952e31ed2fbbdc4488d417187a6c35b6l-m2601261341s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/952e31ed2fbbdc4488d417187a6c35b6l-m1287084102s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 1742,
+      "name": null,
+      "sold_date": "2017-09-06",
+      "sold_price": 100000,
+      "sqft": 830,
+      "stories": 1,
+      "sub_type": "condo",
+      "type": "condos",
+      "year_built": 1985
+    },
+    "property_id": "6047603335",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "1AD6D8761EB409D3ADE205DB04D36716",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1057755"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "RE/MAX Aerospace Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "RE MAX Aerospace Realty",
+        "photo": "https://ap.rdcpix.com/252f1a44d276334943385dc9b72b1e00o-b2274465705s.jpg",
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-24T14:08:06Z",
+    "list_date": "2025-08-01T20:38:30.000000Z",
+    "list_price": 265000,
+    "listing_id": "2984930743",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.037748,
+          "lon": -80.722838
+        },
+        "line": "1752 Valcourt St NW",
+        "postal_code": "32907",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1752%20Valcourt%20St%20NW%2C%20Palm%20Bay%2C%20FL%2032907&size=640x480&source=outdoor&signature=m0sY3tV89Fnq59e1OZl_rmnTPCA="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2984930743",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "544005954",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1752-Valcourt-St-NW_Palm-Bay_FL_32907_M67455-12082",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/e9efe31bee2aef0e55609131ed687997l-b1403907840s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/e9efe31bee2aef0e55609131ed687997l-b667787786s.jpg"
+      }
+    ],
+    "price_reduced_amount": 5000,
+    "primary_photo": "https://ap.rdcpix.com/e9efe31bee2aef0e55609131ed687997l-b1403907840s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10454,
+      "name": null,
+      "sold_date": "2006-10-17",
+      "sold_price": 181000,
+      "sqft": 1612,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2006
+    },
+    "property_id": "6745512082",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "20722ECB60A836FA21BF5A945D10E9AE",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1053445"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "J. Edwards Real Estate"
+      }
+    ],
+    "branding": [
+      {
+        "name": "J. Edwards Real Estate",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-25T21:24:56Z",
+    "list_date": "2025-09-01T18:32:32.000000Z",
+    "list_price": 260000,
+    "listing_id": "2985922083",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.004849,
+          "lon": -80.652557
+        },
+        "line": "366 Bordeaux Ave NE",
+        "postal_code": "32907",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=366%20Bordeaux%20Ave%20NE%2C%20Palm%20Bay%2C%20FL%2032907&size=640x480&source=outdoor&signature=xYJWRzMTze8AY1jbr6k8WQA4SIQ="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985922083",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2564516792",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "626919306",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/366-Bordeaux-Ave-NE_Palm-Bay_FL_32907_M66330-25398",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/93ecab3f5f16c1517b0ca4e3d2d74403l-m3848462192s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/93ecab3f5f16c1517b0ca4e3d2d74403l-m127193441s.jpg"
+      }
+    ],
+    "price_reduced_amount": 15000,
+    "primary_photo": "https://ap.rdcpix.com/93ecab3f5f16c1517b0ca4e3d2d74403l-m3848462192s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "2017-06-02",
+      "sold_price": 140000,
+      "sqft": 1751,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2004
+    },
+    "property_id": "6633025398",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "C0D603DAB09AF6A02991DA74173C263D",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1056004"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "1ST CLASS REAL ESTATE PREMIER GROUP INC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "1ST CLASS REAL ESTATE PREMIER GROUP INC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-12T23:20:41Z",
+    "list_date": "2025-08-11T07:18:37.000000Z",
+    "list_price": 300000,
+    "listing_id": "2985215337",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": {
+          "lat": 28.465412,
+          "lon": -80.829519
+        },
+        "line": "6198 Dees Rd",
+        "postal_code": "32927",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=6198%20Dees%20Rd%2C%20Cocoa%2C%20FL%2032927&size=640x480&source=outdoor&signature=0DW8vqYEOb72SH_tDLWP1f__8hU="
+    },
+    "open_house_description": {
+      "description": null,
+      "dst": true,
+      "end_date": "2025-10-17T18:00:00",
+      "methods": [
+        "in_person"
+      ],
+      "start_date": "2025-10-17T14:00:00",
+      "time_zone": "EST"
+    },
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985215337",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2984948579",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/6198-Dees-Rd_Cocoa_FL_32927_M52143-56856",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/f146538952466082f380430d8b9e7a1el-m774098588s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/f146538952466082f380430d8b9e7a1el-m3325868620s.jpg"
+      }
+    ],
+    "price_reduced_amount": 15000,
+    "primary_photo": "https://ap.rdcpix.com/f146538952466082f380430d8b9e7a1el-m774098588s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 11326,
+      "name": null,
+      "sold_date": "2006-10-03",
+      "sold_price": 220000,
+      "sqft": 2045,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1995
+    },
+    "property_id": "5214356856",
+    "source": "JAFL",
+    "status": "for_sale",
+    "tax_record": "D4FFB194C45AC10179F19D2C3BBBF00F",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Waterman Real Estate, Inc."
+      }
+    ],
+    "branding": [
+      {
+        "name": "Waterman Real Estate, Inc.",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-26T17:47:36Z",
+    "list_date": "2025-09-03T14:08:30.000000Z",
+    "list_price": 334950,
+    "listing_id": "2985976865",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.99384,
+          "lon": -80.698761
+        },
+        "line": "966 San Rafael Rd SW",
+        "postal_code": "32908",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=966%20San%20Rafael%20Rd%20SW%2C%20Palm%20Bay%2C%20FL%2032908&size=640x480&source=outdoor&signature=STsicv2j56rMwKL3YqwlCKmCIWs="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985976865",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2967566775",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2958550363",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "653743426",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/966-San-Rafael-Rd-SW_Palm-Bay_FL_32908_M58321-70544",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/3f30f939512acd4c7510c6d2fdbe3edal-m4027746831s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/3f30f939512acd4c7510c6d2fdbe3edal-m4220190919s.jpg"
+      }
+    ],
+    "price_reduced_amount": 9700,
+    "primary_photo": "https://ap.rdcpix.com/3f30f939512acd4c7510c6d2fdbe3edal-m4027746831s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 3,
+      "baths_half": null,
+      "beds": 5,
+      "garage": 2,
+      "lot_sqft": 23087,
+      "name": null,
+      "sold_date": "2022-07-08",
+      "sold_price": 650000,
+      "sqft": 3372,
+      "stories": 2,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2001
+    },
+    "property_id": "5832170544",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "EA7DEDFB7A64FB0DC44BFEDA0275E2C3",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1056132"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Realty City Inc"
+      },
+      {
+        "office_name": "EXP Realty, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Realty City Inc",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-13T18:47:39Z",
+    "list_date": "2025-09-14T04:11:27.000000Z",
+    "list_price": 124900,
+    "listing_id": "2986374523",
+    "location": {
+      "address": {
+        "city": "Rockledge",
+        "coordinate": {
+          "lat": 28.270356,
+          "lon": -80.68999
+        },
+        "line": "150 Oakledge Dr",
+        "postal_code": "32955",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=150%20Oakledge%20Dr%2C%20Rockledge%2C%20FL%2032955&size=640x480&source=outdoor&signature=khlXvXtUeoeHyw1blkvKyr1HtHA="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986374523",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2924524872",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "565239554",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "558958698",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "510810338",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/150-Oakledge-Dr_Rockledge_FL_32955_M61521-57448",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/092091a7a255c2f5d1fa201a2448c3a8l-m1282653888s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/092091a7a255c2f5d1fa201a2448c3a8l-m3523343656s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/092091a7a255c2f5d1fa201a2448c3a8l-m1282653888s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 11326,
+      "name": null,
+      "sold_date": "2022-06-28",
+      "sold_price": 290000,
+      "sqft": 2004,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1987
+    },
+    "property_id": "6152157448",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "DA8C48759C2A6583E830C954A07604BE",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1057131"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "RE/MAX Aerospace Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "RE MAX Aerospace Realty",
+        "photo": "https://ap.rdcpix.com/5828d44b8df483241b2da9e99a98430eo-b2274465705s.jpg",
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-18T18:48:57Z",
+    "list_date": "2025-03-16T16:11:45.000000Z",
+    "list_price": 172000,
+    "listing_id": "2979435587",
+    "location": {
+      "address": {
+        "city": "Melbourne",
+        "coordinate": {
+          "lat": 28.069596,
+          "lon": -80.610789
+        },
+        "line": "600 Burr St",
+        "postal_code": "32901",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=600%20Burr%20St%2C%20Melbourne%2C%20FL%2032901&size=640x480&source=outdoor&signature=McyZHrO6WtD79DVELcWc9bEfVeI="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2979435587",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/600-Burr-St_Melbourne_FL_32901_M57694-74708",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/83dbd3776ef851b2f2ac48f7d8400f64l-b3373204725s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/83dbd3776ef851b2f2ac48f7d8400f64l-b4220577831s.jpg"
+      }
+    ],
+    "price_reduced_amount": 6000,
+    "primary_photo": "https://ap.rdcpix.com/83dbd3776ef851b2f2ac48f7d8400f64l-b3373204725s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 1,
+      "lot_sqft": 8712,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1215,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1960
+    },
+    "property_id": "5769474708",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "93E2766F60FBC7AB695CFBAA18E2F90C",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "RE/MAX Elite"
+      }
+    ],
+    "branding": [
+      {
+        "name": "RE MAX Elite",
+        "photo": "https://ap.rdcpix.com/d069c8ffa71612e064cdb5649e7540b6o-b2274465705s.jpg",
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-05T16:14:50Z",
+    "list_date": "2025-09-01T16:26:27.000000Z",
+    "list_price": 239900,
+    "listing_id": "2985920187",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.98945,
+          "lon": -80.643973
+        },
+        "line": "999 Castile Rd SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=999%20Castile%20Rd%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=IBAJnxsAZKAGareYimgwQahBQ1c="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985920187",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "522295718",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "543981022",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/999-Castile-Rd-SE_Palm-Bay_FL_32909_M68129-35618",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/ff3b8bccbe0063ac8d3705f72378fc32l-b2250943553s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/ff3b8bccbe0063ac8d3705f72378fc32l-b2250943553s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "2011-01-07",
+      "sold_price": 52500,
+      "sqft": 1905,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1980
+    },
+    "property_id": "6812935618",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "1B839E44D589BF87EDCB7DD315E8BA27",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Four Star Real Estate LLC"
+      },
+      {
+        "office_name": "Four Star Real Estate LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Four Star Real Estate, LLC.",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-11T15:34:38Z",
+    "list_date": "2025-02-28T21:53:31.000000Z",
+    "list_price": 339000,
+    "listing_id": "2978844342",
+    "location": {
+      "address": {
+        "city": "Melbourne",
+        "coordinate": {
+          "lat": 28.254152,
+          "lon": -80.709909
+        },
+        "line": "1360 Democracy Ave",
+        "postal_code": "32940",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1360%20Democracy%20Ave%2C%20Melbourne%2C%20FL%2032940&size=640x480&source=outdoor&signature=KejpQl9YYLbTvH0Ys5JUHr3wzs0="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2978844342",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2969816199",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1360-Democracy-Ave_Melbourne_FL_32940_M58108-26909",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/91fd8694a9022cbbef8bbfca1e201b8el-m2909523343s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/91fd8694a9022cbbef8bbfca1e201b8el-m4023037348s.jpg"
+      }
+    ],
+    "price_reduced_amount": 10000,
+    "primary_photo": "https://ap.rdcpix.com/91fd8694a9022cbbef8bbfca1e201b8el-m2909523343s.jpg",
+    "property_description": {
+      "baths": 3,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": 1,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10454,
+      "name": null,
+      "sold_date": "2004-03-08",
+      "sold_price": 172000,
+      "sqft": 2368,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1988
+    },
+    "property_id": "5810826909",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "D039D0F6566442996578468B8E23D0A6",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1038693"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Blue Marlin Real Estate"
+      },
+      {
+        "office_name": "Legacy Real Estate Partners"
+      },
+      {
+        "office_name": "Blue Marlin Real Estate"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Blue Marlin Real Estate",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-29T17:42:24Z",
+    "list_date": "2025-07-19T15:53:32.000000Z",
+    "list_price": 225000,
+    "listing_id": "2984461849",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.008218,
+          "lon": -80.708604
+        },
+        "line": "1324 Gimlet St NW",
+        "postal_code": "32907",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1324%20Gimlet%20St%20NW%2C%20Palm%20Bay%2C%20FL%2032907&size=640x480&source=outdoor&signature=fx2ajmU3f5SfAwgduor-ix87kBE="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2984461849",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2915385023",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1324-Gimlet-St-NW_Palm-Bay_FL_32907_M63116-06645",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/b3af50e3a38d711ea07a96e29650b2c8l-m1635182270s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/b3af50e3a38d711ea07a96e29650b2c8l-m547862158s.jpg"
+      }
+    ],
+    "price_reduced_amount": 50500,
+    "primary_photo": "https://ap.rdcpix.com/b3af50e3a38d711ea07a96e29650b2c8l-m1635182270s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "2020-07-02",
+      "sold_price": 155000,
+      "sqft": 1056,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1988
+    },
+    "property_id": "6311606645",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "C762AC26043F809FC9F1B776266A2357",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1052204"
+  },
+  {
+    "agent": [
+      {
+        "office_name": null
+      }
+    ],
+    "branding": [
+      {
+        "name": "THE SHOP REAL ESTATE CO.",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-04T03:47:25Z",
+    "list_date": "2025-10-04T00:18:29.000000Z",
+    "list_price": 134950,
+    "listing_id": "2987040866",
+    "location": {
+      "address": {
+        "city": "Melbourne",
+        "coordinate": {
+          "lat": 28.05977,
+          "lon": -80.606721
+        },
+        "line": "810 Juniper Ln",
+        "postal_code": "32901",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=810%20Juniper%20Ln%2C%20Melbourne%2C%20FL%2032901&size=640x480&source=outdoor&signature=3KREUJbcZDHPNYZ95F5fGk66sUE="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2987040866",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/810-Juniper-Ln_Melbourne_FL_32901_M64165-84805",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/f29f9d82fa111d29d39e7e3557df7e75l-m2081474585s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/f29f9d82fa111d29d39e7e3557df7e75l-m1701945916s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/f29f9d82fa111d29d39e7e3557df7e75l-m2081474585s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 6534,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1014,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1968
+    },
+    "property_id": "6416584805",
+    "source": "ORFL",
+    "status": "for_sale",
+    "tax_record": "E4B3D1D90F75910CCF822D794C5E5686",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/stellar/TB8433595"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "BEYCOME OF FLORIDA LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "beycome.com",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-13T22:29:05Z",
+    "list_date": "2025-10-13T22:22:57.000000Z",
+    "list_price": 143000,
+    "listing_id": "2987315729",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.913287,
+          "lon": -80.687258
+        },
+        "line": "3326 Florala Ave SW",
+        "postal_code": "32908",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3326%20Florala%20Ave%20SW%2C%20Palm%20Bay%2C%20FL%2032908&size=640x480&source=outdoor&signature=Y7zJra3_zbIPrLiMKaobQKMbxFM="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2987315729",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2987302519",
+          "listing_key": null,
+          "primary": null,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "532590338",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "515398866",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "515398282",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "554521574",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/3326-Florala-Ave-SW_Palm-Bay_FL_32908_M53252-30556",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/b98f45c836fa5ae1dd9776ab6b9ac830l-m3330490737s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/b98f45c836fa5ae1dd9776ab6b9ac830l-m1547257995s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/b98f45c836fa5ae1dd9776ab6b9ac830l-m3330490737s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 10019,
+      "name": null,
+      "sold_date": "2012-08-24",
+      "sold_price": 69900,
+      "sqft": 1820,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2006
+    },
+    "property_id": "5325230556",
+    "source": "ORFL",
+    "status": "for_sale",
+    "tax_record": "1DDD1591447CD6E648CB72BB2BC57EA8",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "CENTURY 21 Baytree Realty"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Century 21 Baytree Realty",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-02T13:48:21Z",
+    "list_date": "2025-10-01T11:06:17.000000Z",
+    "list_price": 345000,
+    "listing_id": "2986911881",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 27.903904,
+          "lon": -80.629617
+        },
+        "line": "3548 Plume Way SE",
+        "postal_code": "32909",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3548%20Plume%20Way%20SE%2C%20Palm%20Bay%2C%20FL%2032909&size=640x480&source=outdoor&signature=iD6TQPRExdlb0X3sOAVfY46bux4="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2986911881",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2580969875",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "2333513930",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "651582582",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "623917398",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "621532270",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/3548-Plume-Way-SE_Palm-Bay_FL_32909_M50501-69012",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/aa7da1224fb6f1aa8f741c9a7a739c91l-b1572514019s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/aa7da1224fb6f1aa8f741c9a7a739c91l-b225318298s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/aa7da1224fb6f1aa8f741c9a7a739c91l-b1572514019s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 7405,
+      "name": null,
+      "sold_date": "2020-02-24",
+      "sold_price": 250000,
+      "sqft": 1983,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 2008
+    },
+    "property_id": "5050169012",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "B5C04E9486FF0BD3DE6E9411E6E7C444",
+    "type": "mls",
+    "virtual_tour_link": "https://media.soaringhighdrones.com/videos/01999b27-5301-700e-8c5f-2caa8729c2d7?v=242"
+  },
+  {
+    "agent": [
+      {
+        "office_name": null
+      }
+    ],
+    "branding": [
+      {
+        "name": "EXP REALTY LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-06T00:14:50Z",
+    "list_date": "2025-02-14T21:47:54.000000Z",
+    "list_price": 115000,
+    "listing_id": "2978337360",
+    "location": {
+      "address": {
+        "city": "Melbourne",
+        "coordinate": {
+          "lat": 28.065582,
+          "lon": -80.607368
+        },
+        "line": "811 Calloway Ln",
+        "postal_code": "32901",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=811%20Calloway%20Ln%2C%20Melbourne%2C%20FL%2032901&size=640x480&source=outdoor&signature=W8DKLdvRPoyLGihoh0joUAu3O8U="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2978337360",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2978338217",
+          "listing_key": null,
+          "primary": null,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2974937789",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2974938053",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/811-Calloway-Ln_Melbourne_FL_32901_M50167-17190",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/cada41fadf4aefc5b3e12c77f9e67b61l-m2642413405s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/cada41fadf4aefc5b3e12c77f9e67b61l-m1286834905s.jpg"
+      }
+    ],
+    "price_reduced_amount": 14000,
+    "primary_photo": "https://ap.rdcpix.com/cada41fadf4aefc5b3e12c77f9e67b61l-m2642413405s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 6534,
+      "name": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sqft": 1088,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1963
+    },
+    "property_id": "5016717190",
+    "source": "ORFL",
+    "status": "for_sale",
+    "tax_record": "354E661EA207D80372CD99033835FEB3",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/stellar/O6281222"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "All Florida Property Group,Inc"
+      }
+    ],
+    "branding": [
+      {
+        "name": "All Florida Prop. Group",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-25T12:41:37Z",
+    "list_date": "2025-05-02T20:36:11.000000Z",
+    "list_price": 95000,
+    "listing_id": "2981364332",
+    "location": {
+      "address": {
+        "city": "Titusville",
+        "coordinate": {
+          "lat": 28.601815,
+          "lon": -80.820577
+        },
+        "line": "1041 Rosella Ln",
+        "postal_code": "32780",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1041%20Rosella%20Ln%2C%20Titusville%2C%20FL%2032780&size=640x480&source=outdoor&signature=DUeXp9f5b8VNjwmPpWxuYdUwDfM="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2981364332",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2941750296",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1041-Rosella-Ln_Titusville_FL_32780_M51072-45914",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/e7a03d5954e20a9d10291a460a55c334l-m929573881s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/e7a03d5954e20a9d10291a460a55c334l-m969660712s.jpg"
+      }
+    ],
+    "price_reduced_amount": 5000,
+    "primary_photo": "https://ap.rdcpix.com/e7a03d5954e20a9d10291a460a55c334l-m929573881s.jpg",
+    "property_description": {
+      "baths": 1,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 1,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 11326,
+      "name": null,
+      "sold_date": "2022-04-20",
+      "sold_price": 90000,
+      "sqft": 960,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1958
+    },
+    "property_id": "5107245914",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "0073292001A2CA08610B03FBD1389EB7",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "EXP Realty, LLC"
+      },
+      {
+        "office_name": "Real Broker, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "EXP REALTY LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-13T12:05:40Z",
+    "list_date": "2025-05-16T12:44:34.000000Z",
+    "list_price": 250000,
+    "listing_id": "2981944734",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.020864,
+          "lon": -80.615651
+        },
+        "line": "1805 Shayne Ln NE",
+        "postal_code": "32905",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1805%20Shayne%20Ln%20NE%2C%20Palm%20Bay%2C%20FL%2032905&size=640x480&source=outdoor&signature=AmLBHsYrSUqVw0ND2ilMhJ4hs0A="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2981944734",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2975098838",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2975098835",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2924641910",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "598668122",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "594213922",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        },
+        {
+          "listing_id": "2965520861",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2963465708",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2960935778",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2960872692",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2947652285",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "532326578",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/1805-Shayne-Ln-NE_Palm-Bay_FL_32905_M65353-15719",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/161a969e69276a2084e3ccf942ef7c77l-m2300432012s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/161a969e69276a2084e3ccf942ef7c77l-m4157209383s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/161a969e69276a2084e3ccf942ef7c77l-m2300432012s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 2,
+      "lot_sqft": 16117,
+      "name": null,
+      "sold_date": "2015-03-26",
+      "sold_price": 149900,
+      "sqft": 1507,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1972
+    },
+    "property_id": "6535315719",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "B858B24A47C3974757F51C87BCD100B1",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1046347"
+  },
+  {
+    "agent": [
+      {
+        "office_name": null
+      }
+    ],
+    "branding": [
+      {
+        "name": "KELLER WILLIAMS ADVANTAGE 2 REALTY",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-10-09T04:00:44Z",
+    "list_date": "2025-10-09T03:52:46.000000Z",
+    "list_price": 75000,
+    "listing_id": "2987178688",
+    "location": {
+      "address": {
+        "city": "Merritt Island",
+        "coordinate": {
+          "lat": 28.367158,
+          "lon": -80.703261
+        },
+        "line": "140 Minna Ln Apt 118",
+        "postal_code": "32953",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=140%20Minna%20Ln%20Apt%20118%2C%20Merritt%20Island%2C%20FL%2032953&size=640x480&source=outdoor&signature=S7EskA0ujeiz0yL1np6AZNJzYQA="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2987178688",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/140-Minna-Ln-Apt-118_Merritt-Island_FL_32953_M55160-53304",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/601e93a3b47d48c0db2f8e698a9ae9e0l-m32778829s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/601e93a3b47d48c0db2f8e698a9ae9e0l-m1774220399s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/601e93a3b47d48c0db2f8e698a9ae9e0l-m32778829s.jpg",
+    "property_description": {
+      "baths": 1,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 1,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 758,
+      "name": null,
+      "sold_date": "2012-05-23",
+      "sold_price": 25000,
+      "sqft": 775,
+      "stories": 2,
+      "sub_type": "condo",
+      "type": "condos",
+      "year_built": 1964
+    },
+    "property_id": "5516053304",
+    "source": "ORFL",
+    "status": "for_sale",
+    "tax_record": "54B307BE4DC6DAFE859C474E31E130DD",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "EXP Realty, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "EXP REALTY LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-09-03T18:24:26Z",
+    "list_date": "2025-02-15T01:38:33.000000Z",
+    "list_price": 185000,
+    "listing_id": "2978346308",
+    "location": {
+      "address": {
+        "city": "Palm Bay",
+        "coordinate": {
+          "lat": 28.021643,
+          "lon": -80.582146
+        },
+        "line": "943 Canal Ln NE",
+        "postal_code": "32905",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=943%20Canal%20Ln%20NE%2C%20Palm%20Bay%2C%20FL%2032905&size=640x480&source=outdoor&signature=dKRjdnOCn4-bJduaRG3TI_GoZqw="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2978346308",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2924665761",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "2918326229",
+          "listing_key": null,
+          "primary": null,
+          "status": "off_market"
+        },
+        {
+          "listing_id": "624470130",
+          "listing_key": null,
+          "primary": null,
+          "status": "sold"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/943-Canal-Ln-NE_Palm-Bay_FL_32905_M51550-48368",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/2005a7832d7c4a20a80967f2c580c144l-m1474624519s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/2005a7832d7c4a20a80967f2c580c144l-m3520418661s.jpg"
+      }
+    ],
+    "price_reduced_amount": 11000,
+    "primary_photo": "https://ap.rdcpix.com/2005a7832d7c4a20a80967f2c580c144l-m1474624519s.jpg",
+    "property_description": {
+      "baths": 2,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 2,
+      "baths_half": null,
+      "beds": 3,
+      "garage": 1,
+      "lot_sqft": 9148,
+      "name": null,
+      "sold_date": "2017-05-23",
+      "sold_price": 137500,
+      "sqft": 1092,
+      "stories": 1,
+      "sub_type": null,
+      "type": "single_family",
+      "year_built": 1964
+    },
+    "property_id": "5155048368",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "27A61F585346F8EDAF573564FDDC72F0",
+    "type": "mls",
+    "virtual_tour_link": "No Virtual Tour Available"
+  },
+  {
+    "agent": [
+      {
+        "office_name": "Arium Real Estate, LLC"
+      }
+    ],
+    "branding": [
+      {
+        "name": "Arium Real Estate, LLC",
+        "photo": null,
+        "type": "Office"
+      }
+    ],
+    "last_update_date": "2025-08-28T11:37:57Z",
+    "list_date": "2025-08-27T22:17:30.000000Z",
+    "list_price": 1400,
+    "listing_id": "2985797625",
+    "location": {
+      "address": {
+        "city": "Cocoa",
+        "coordinate": {
+          "lat": 28.368194,
+          "lon": -80.741175
+        },
+        "line": "800 N Fiske Blvd Apt 202",
+        "postal_code": "32922",
+        "state": "Florida",
+        "state_code": "FL"
+      },
+      "county": {
+        "fips_code": "12009",
+        "name": "Brevard"
+      },
+      "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=800%20N%20Fiske%20Blvd%20Apt%20202%2C%20Cocoa%2C%20FL%2032922&size=640x480&source=outdoor&signature=WA1ONsPLlhlYef5aiT3nuQwog7M="
+    },
+    "open_house_description": "No Open House Available",
+    "other_listings": {
+      "rdc": [
+        {
+          "listing_id": "2985797625",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2983829789",
+          "listing_key": null,
+          "primary": null,
+          "status": "for_sale"
+        },
+        {
+          "listing_id": "2985799542",
+          "listing_key": null,
+          "primary": true,
+          "status": "for_rent"
+        }
+      ]
+    },
+    "permalink": "https://www.realtor.com/realestateandhomes-detail/800-N-Fiske-Blvd-Apt-202_Cocoa_FL_32922_M55328-94760",
+    "photos": [
+      {
+        "href": "https://ap.rdcpix.com/ce7fcd911e7501eaf099dd43e06a344al-m1340503426s.jpg"
+      },
+      {
+        "href": "https://ap.rdcpix.com/ce7fcd911e7501eaf099dd43e06a344al-m2083191075s.jpg"
+      }
+    ],
+    "price_reduced_amount": null,
+    "primary_photo": "https://ap.rdcpix.com/ce7fcd911e7501eaf099dd43e06a344al-m1340503426s.jpg",
+    "property_description": {
+      "baths": 1,
+      "baths_1qtr": null,
+      "baths_3qtr": null,
+      "baths_full": 1,
+      "baths_half": null,
+      "beds": 2,
+      "garage": null,
+      "lot_sqft": 2614,
+      "name": null,
+      "sold_date": "1990-12-01",
+      "sold_price": 30700,
+      "sqft": 850,
+      "stories": 1,
+      "sub_type": "condo",
+      "type": "condos",
+      "year_built": 1964
+    },
+    "property_id": "5532894760",
+    "source": "BCFL",
+    "status": "for_sale",
+    "tax_record": "E7BF4D8D72E98F66A47D336E5A32EEA3",
+    "type": "mls",
+    "virtual_tour_link": "https://www.propertypanorama.com/instaview/spc/1055663"
+  }
+]
