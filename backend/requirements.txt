@@ -20,4 +20,5 @@ uvicorn==0.37.0
 bs4
 typing
 xmltodict
+homeharvest
 
